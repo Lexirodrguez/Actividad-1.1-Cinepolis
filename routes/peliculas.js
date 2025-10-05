@@ -1,6 +1,6 @@
 const express = require('express');
 const router = express.Router();
-const PeliculaController = require('../controllers/PeliculaController');
+const PeliculaController = require('../controllers/peliculasController');
 
 const peliculaController = new PeliculaController();
 

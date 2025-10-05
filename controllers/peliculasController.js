@@ -1,4 +1,4 @@
-class PeliculaController {
+class PeliculasController {
     constructor() {
         this.peliculas = [
             {
@@ -136,4 +136,4 @@ class PeliculaController {
     }
 }
 
-module.exports = PeliculaController;
+module.exports = PeliculasController;
